@@ -7,7 +7,7 @@
 
 - 👨‍💻 **[<a href="https://www.leomonzon.dev" target="_blank" rel="noreferrer" >My Portfolio</a>](#)**
 
-- 🌎 Posadas, ARG / Buenos Aires, ARG
+- 🌎 Encarnación, Paraguay
 
 ## 🛠️ Tech Stack:
 
