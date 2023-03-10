@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Always improving my skills in **Web Development, and Pentesting**
+- 🌱 Always improving my skills in **Development, and Pentesting**
 
 - 👨‍💻 **[<a href="https://www.leomonzon.dev" target="_blank" rel="noreferrer" >My Portfolio</a>](#)**
 
