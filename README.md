@@ -54,13 +54,6 @@
   <a href="#"><img  alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
   <a href="#"><img  alt="Vercel" src ="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="#"><img  alt="Prisma" src ="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/></a>
-
-
-
-
-
-
-
 </div>
 
 
@@ -74,6 +67,9 @@
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/cristian-leonardo-barros-monzon/" target="_blank"><img  alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
-  
 </div>
+<hr/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=leomonzondev&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
