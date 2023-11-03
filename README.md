@@ -6,11 +6,11 @@
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@leomonzondev" rel="nofollow">
-    <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCIZS4F2zlOd1rnx6g7Jye1w?style=flat-square&logo=youtube" />
+    <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCo36TS1nQej0qcWlpOl-8yw?style=flat-square&logo=youtube" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/cristian-leonardo-barros-monzon/" rel="nofollow">
-    <img alt="Linkedin" src="https://img.shields.io/badge/follow-leomonzon-0077b5?logo=linkedin&style=flat-square" />
+    <img alt="Linkedin" src="https://img.shields.io/badge/connect-leomonzon-0077b5?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
