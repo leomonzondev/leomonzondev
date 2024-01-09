@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://x.com/leomonzondev" rel="nofollow">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-  </a>
+  </a> 
   &nbsp;
   <a href="https://www.youtube.com/@leomonzondev" rel="nofollow">
     <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height=25 />
